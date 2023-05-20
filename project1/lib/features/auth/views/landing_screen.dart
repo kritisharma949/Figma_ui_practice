@@ -60,7 +60,7 @@ class LandingScreen extends StatelessWidget {
                   ),
                   Container(
                     child: PrimaryButton(
-                      buttonText: 'Login as Invester',
+                      buttonText: 'Login as Investor',
                       onTap: () {},
                       dynamicColor: Colors.black,
                       width: 267,
